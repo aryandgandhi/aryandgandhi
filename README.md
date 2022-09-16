@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Aryan Gandhi
-- 👀 I’m interested in Python, Machine Learning, Data Analytics and Nutrition
-- 🗓 Let's meet https://cal.com/aryandgandhi/15min
+- 👀 I’m interested in Python, Machine Learning and Data Analytics
 - 📫 Reach out at aryandgandhi@gmail.com
 
 <!---
