@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Aryan Gandhi
-- 👀 I’m interested in Python, Machine Learning and Data Analytics
-- 📫 Reach out at aryandgandhi@gmail.com
+- 📫 Reach out at aryang6@illinois.edu
 
 <!---
 aryandgandhi/aryandgandhi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
